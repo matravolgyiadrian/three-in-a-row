@@ -205,7 +205,7 @@ public class ThreeInARowState {
      * @return {@code true} if one of the players has 3 piece in a row, column or diagonal,
      * {@code false} otherwise
      */
-    public boolean isEnd(){
+    public boolean isEnd() {
         return isThreeInARow() || isThreeInAColumn() || isThreeInDiagonal();
     }
 
