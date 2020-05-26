@@ -131,6 +131,6 @@ public class SavedGamesController {
     }
 
     private void closeWindow(){
-        loadButton.getScene().getWindow().hide();
+        savedGamesTable.getScene().getWindow().hide();
     }
 }
