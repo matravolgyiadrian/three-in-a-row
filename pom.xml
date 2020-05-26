@@ -117,8 +117,8 @@
         </dependency>
     </dependencies>
     <scm>
-        <connection></connection>
-        <developerConnection></developerConnection>
+        <connection>scm:https://github.com/matravolgyiadrian/three-in-a-row.git</connection>
+        <developerConnection>scm:https://github.com/matravolgyiadrian/three-in-a-row.git</developerConnection>
     </scm>
     <build>
         <plugins>
